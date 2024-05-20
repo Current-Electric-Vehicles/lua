@@ -14,6 +14,9 @@
             "+<*.c>",
             "-<lua.c>",
             "-<onelua.c>"
+        ],
+        "flags": [
+
         ]
     },
     "dependencies": []
