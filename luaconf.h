@@ -115,7 +115,7 @@
 
 
 /* Default configuration ('long long' and 'double', for 64-bit Lua) */
-#define LUA_INT_DEFAULT		LUA_INT_LONGLONG
+#define LUA_INT_DEFAULT		LUA_INT_LONG
 #define LUA_FLOAT_DEFAULT	LUA_FLOAT_DOUBLE
 
 

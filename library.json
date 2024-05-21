@@ -5,7 +5,7 @@
     "description": "Lua scripting engine",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lua/lua"
+        "url": "https://github.com/Current-Electric-Vehicles/lua"
     },
     "build": {
         "includeDir": "./",
@@ -16,7 +16,6 @@
             "-<onelua.c>"
         ],
         "flags": [
-
         ]
     },
     "dependencies": []
